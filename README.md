@@ -1,3 +1,4 @@
+Hello, please take your time to review my code and give pointers and tips on what I could improve. Thank you!
 ### Introduction
 
 This second programming assignment will require you to write an R
